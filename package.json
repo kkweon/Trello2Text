@@ -1,0 +1,20 @@
+{
+  "name": "trello2text",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "yarn webpack --optimize-minimize",
+    "test": "find specs -name *.spec.ts | xargs yarn mocha -r ts-node/register"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.1.2",
+    "@types/mocha": "^2.2.48",
+    "awesome-typescript-loader": "^3.4.1",
+    "chai": "^4.1.2",
+    "mocha": "^5.0.0",
+    "ts-node": "^4.1.0",
+    "typescript": "^2.7.1",
+    "webpack": "^3.10.0"
+  }
+}

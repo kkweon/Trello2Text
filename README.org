@@ -1,0 +1,13 @@
+* Trello Text Export
+
+** Retrieve cards that are relevant.
+*** Meaning of Relevant?
+
+- Create Card on ...
+- When move card to ...
+
+**** Lists
+  - 아이디어
+  - 완료
+  - 오늘 할 일
+  - 일시정지
