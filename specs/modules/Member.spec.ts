@@ -32,11 +32,11 @@ describe("Card class", () => {
     const message = `
 [Mo Kweon(kkweon)]
 
-*오늘 할 일*
-${card1.name}
-
 *완료*
 ${card2.name}
+
+*오늘 할 일*
+${card1.name}
 `;
     expect(me.toString()).to.equal(message);
   });

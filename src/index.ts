@@ -73,5 +73,10 @@ if (typeof window !== "undefined") {
       const message = member.toString();
       console.log(message);
     });
+
+    alert(`콘솔을 열어서 확인해주세요.
+[윈도우/Linux] CTRL + SHIFT + J or F12
+[OSX] ALT + CMD + J
+`);
   }
 }

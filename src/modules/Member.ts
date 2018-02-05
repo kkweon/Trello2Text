@@ -57,17 +57,17 @@ ${Card.renderCards(this.idea)}
 `;
     }
 
-    if (this.todo.length > 0) {
-      message += `
-*오늘 할 일*
-${Card.renderCards(this.todo)}
-`;
-    }
-
     if (this.done.length > 0) {
       message += `
 *완료*
 ${Card.renderCards(this.done)}
+`;
+    }
+
+    if (this.todo.length > 0) {
+      message += `
+*오늘 할 일*
+${Card.renderCards(this.todo)}
 `;
     }
 
