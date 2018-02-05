@@ -11,3 +11,12 @@
   - 완료
   - 오늘 할 일
   - 일시정지
+
+
+** Get Started
+
+#+BEGIN_SRC bash
+yarn install
+yarn test #optional
+yarn build
+#+END_SRC
