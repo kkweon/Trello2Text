@@ -1,4 +1,5 @@
 * Trello Text Export
+[[https://travis-ci.org/kkweon/Trello2Text.svg?branch=master]]
 
 ** Retrieve cards that are relevant.
 *** Meaning of Relevant?
