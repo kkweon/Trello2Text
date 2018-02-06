@@ -1,6 +1,9 @@
 * Trello Text Export
 [[https://travis-ci.org/kkweon/Trello2Text.svg?branch=master]]
 
+** Demo
+#+HTML: <div align="center" ><img src="./assets/demo.gif" width="100%" alt="Demo" /></div>
+
 ** Retrieve cards that are relevant.
 *** Meaning of Relevant?
 
