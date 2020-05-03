@@ -13,3 +13,10 @@ steps:
   commands:
   - yarn test
     
+trigger:
+  branch: 
+  - master
+  event:
+  - pull_request
+  - push
+
