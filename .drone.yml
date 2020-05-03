@@ -7,7 +7,7 @@ steps:
   image: node:latest
   commands:
   - yarn
-  
+
 - name: test
   image: node:latest
   commands:
