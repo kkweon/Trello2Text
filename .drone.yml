@@ -12,9 +12,11 @@ steps:
   image: node:latest
   commands:
   - yarn test
-  
+    
 trigger:
+  branch: 
+  - master
   event:
-    include:
-    - push
-    - pull_request
+  - pull_request
+  - push
+
