@@ -1,7 +1,6 @@
 * Trello Text Export
 
-  #+ATTR_HTML: title="Greenkeeper badge"
-  [[https://greenkeeper.io/][file:https://badges.greenkeeper.io/kkweon/Trello2Text.svg]]
+[[https://snyk.io/test/github/kkweon/Trello2Text/badge.svg?targetFile=package.json]]
 [[https://travis-ci.org/kkweon/Trello2Text.svg?branch=master]]
 
 ** Demo
